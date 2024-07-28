@@ -33,15 +33,14 @@ The system tracks each contributor's ETH contributions and allows the contract o
 
 1. Deploy the WE Token Contract:
 
-First, deploy the WeToken.sol contract. This contract represents the WE Tokens that will be distributed to funders.
-* Deploy the Funding Contract:
+* First, deploy the WeToken.sol contract. This contract represents the WE Tokens that will be distributed to funders.
 
-2. Deploy the Fund.sol contract.
+2. Deploy the Funding Contract:
 
-* During deployment, provide the address of the WeToken contract. This allows the Funding contract to interact with the WE Token.
+* Next , Deploy the Fund.sol contract. During deployment, provide the address of the WeToken contract. This allows the Funding contract to interact with the WE Token.
 
 
-Contract Files
+## Contract Files
 
 IERC20.sol:
 
