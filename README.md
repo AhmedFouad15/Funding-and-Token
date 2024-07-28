@@ -27,16 +27,20 @@ The system tracks each contributor's ETH contributions and allows the contract o
 > 
 > Minimum Contribution: $200 worth of ETH
 
-Getting Started
+#Getting Started
 
-Deployment Steps
+##Deployment Steps
 
-Deploy the WE Token Contract:
+1. Deploy the WE Token Contract:
 
 First, deploy the WeToken.sol contract. This contract represents the WE Tokens that will be distributed to funders.
-Deploy the Funding Contract:
+* Deploy the Funding Contract:
 
-Next, deploy the Fund.sol contract. During deployment, provide the address of the WeToken contract. This allows the Funding contract to interact with the WE Token.
+2. Deploy the Fund.sol contract.
+
+* During deployment, provide the address of the WeToken contract. This allows the Funding contract to interact with the WE Token.
+
+
 Contract Files
 
 IERC20.sol:
