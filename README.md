@@ -4,27 +4,27 @@
 Welcome to the Funding and Token Distribution project!
 
 
-##Overview
+## Overview
 This project consists of a smart contract system for funding and token distribution. Users can send Ethereum (ETH) to a funding contract and, based on their contributions, receive WE Tokens when the contract owner performs a token distribution.
 
 
 The system tracks each contributor's ETH contributions and allows the contract owner to withdraw any remaining unused WE Tokens from the contract.
 
 
-##Key Features
+## Key Features
 
--**###Funding:** Send ETH to the contract and be eligible for token rewards.
+-**### Funding:** Send ETH to the contract and be eligible for token rewards.
 
--###**Token Distribution:** The owner can distribute WE Tokens to funders based on their contributions.
+-###** Token Distribution:** The owner can distribute WE Tokens to funders based on their contributions.
 
--###Tracking: Monitor contributions through a mapping system.
+-### Tracking: Monitor contributions through a mapping system.
 
--###**Withdrawal**: The owner can reclaim unused WE Tokens from the contract.
+-###** Withdrawal**: The owner can reclaim unused WE Tokens from the contract.
 
 
-**##Conversion Rate:** 1 ETH = 1000 WE Tokens
+**## Conversion Rate:** 1 ETH = 1000 WE Tokens
 
-**##Minimum Contribution:** $200 worth of ETH
+**## Minimum Contribution:** $200 worth of ETH
 
 Getting Started
 
