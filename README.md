@@ -22,9 +22,9 @@ The system tracks each contributor's ETH contributions and allows the contract o
 - ### Withdrawal: The owner can reclaim unused WE Tokens from the contract.
 
 
-**## Conversion Rate:** 1 ETH = 1000 WE Tokens
+## Conversion Rate: 1 ETH = 1000 WE Tokens
 
-**## Minimum Contribution:** $200 worth of ETH
+## Minimum Contribution: $200 worth of ETH
 
 Getting Started
 
