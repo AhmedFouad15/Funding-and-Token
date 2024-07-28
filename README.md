@@ -54,11 +54,12 @@ Contains logic to fetch the latest ETH-to-USD conversion rate using Chainlink's 
 Fund.sol:
 
 Main funding contract where users can send ETH. The contract tracks contributions, distributes WE Tokens, and allows the owner to withdraw any leftover tokens.
-Additional Information
 
-Ensure that the WE Token contract address is correctly provided when deploying the Funding contract.
+# Additional Information
 
-Use test networks to verify the functionality of the contracts before deploying to the mainnet.
+* Ensure that the WE Token contract address is correctly provided when deploying the Funding contract.
 
-**Feel free to reach out if you have any questions or need further assistance!**
+* Use test networks to verify the functionality of the contracts before deploying to the mainnet.
+
+##Feel free to reach out if you have any questions or need further assistance!
 
