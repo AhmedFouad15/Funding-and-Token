@@ -42,18 +42,21 @@ The system tracks each contributor's ETH contributions and allows the contract o
 
 ## Contract Files
 
-IERC20.sol:
+1. IERC20.sol:
+   
+ * Interface for ERC20 tokens. Defines the standard functions required for ERC20 compliance.
 
-Interface for ERC20 tokens. Defines the standard functions required for ERC20 compliance.
-WeToken.sol:
 
-Implementation of the WE Token. This contract is used to mint and manage WE Tokens.
-Convert.sol:
+2. WeToken.sol
+*  Implementation of the WE Token. This contract is used to mint and manage WE Tokens.
 
-Contains logic to fetch the latest ETH-to-USD conversion rate using Chainlink's Aggregator.
-Fund.sol:
+3. Convert.sol:
 
-Main funding contract where users can send ETH. The contract tracks contributions, distributes WE Tokens, and allows the owner to withdraw any leftover tokens.
+* Contains logic to fetch the latest ETH-to-USD conversion rate using Chainlink's Aggregator.
+
+4. Fund.sol:
+
+* Main funding contract where users can send ETH. The contract tracks contributions, distributes WE Tokens, and allows the owner to withdraw any leftover tokens.
 
 # Additional Information
 
@@ -61,5 +64,5 @@ Main funding contract where users can send ETH. The contract tracks contribution
 
 * Use test networks to verify the functionality of the contracts before deploying to the mainnet.
 
-##Feel free to reach out if you have any questions or need further assistance!
+## Feel free to reach out if you have any questions or need further assistance!
 
