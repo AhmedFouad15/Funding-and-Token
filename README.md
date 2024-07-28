@@ -27,9 +27,9 @@ The system tracks each contributor's ETH contributions and allows the contract o
 > 
 > Minimum Contribution: $200 worth of ETH
 
-#Getting Started
+# Getting Started
 
-##Deployment Steps
+## Deployment Steps
 
 1. Deploy the WE Token Contract:
 
