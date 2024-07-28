@@ -25,7 +25,7 @@ The system tracks each contributor's ETH contributions and allows the contract o
 > [!NOTE]
 > Conversion Rate: 1 ETH = 1000 WE Tokens
 
-## Minimum Contribution: $200 worth of ETH
+> Minimum Contribution: $200 worth of ETH
 
 Getting Started
 
