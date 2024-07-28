@@ -31,30 +31,30 @@ The system tracks each contributor's ETH contributions and allows the contract o
 
 ## Deployment Steps
 
-1. Deploy the WE Token Contract:
+### 1. Deploy the WE Token Contract:
 
 * First, deploy the WeToken.sol contract. This contract represents the WE Tokens that will be distributed to funders.
 
-2. Deploy the Funding Contract:
+### 2. Deploy the Funding Contract:
 
 * Next , Deploy the Fund.sol contract. During deployment, provide the address of the WeToken contract. This allows the Funding contract to interact with the WE Token.
 
 
 ## Contract Files
 
-1. IERC20.sol:
+### 1. IERC20.sol:
    
  * Interface for ERC20 tokens. Defines the standard functions required for ERC20 compliance.
 
 
-2. WeToken.sol
+### 2. WeToken.sol
 *  Implementation of the WE Token. This contract is used to mint and manage WE Tokens.
 
-3. Convert.sol:
+### 3. Convert.sol:
 
 * Contains logic to fetch the latest ETH-to-USD conversion rate using Chainlink's Aggregator.
 
-4. Fund.sol:
+### 4. Fund.sol:
 
 * Main funding contract where users can send ETH. The contract tracks contributions, distributes WE Tokens, and allows the owner to withdraw any leftover tokens.
 
