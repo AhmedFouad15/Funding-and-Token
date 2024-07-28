@@ -1,7 +1,7 @@
 # Funding and Token Distribution
 
 
-Welcome to the Funding and Token Distribution project!
+Welcome to the **Funding and Token Distribution** project!
 
 
 ## Overview
@@ -13,13 +13,13 @@ The system tracks each contributor's ETH contributions and allows the contract o
 
 ## Key Features
 
--**### Funding:** Send ETH to the contract and be eligible for token rewards.
+-### Funding: Send ETH to the contract and be eligible for token rewards.
 
--###** Token Distribution:** The owner can distribute WE Tokens to funders based on their contributions.
+-### Token Distribution: The owner can distribute WE Tokens to funders based on their contributions.
 
 -### Tracking: Monitor contributions through a mapping system.
 
--###** Withdrawal**: The owner can reclaim unused WE Tokens from the contract.
+-### Withdrawal: The owner can reclaim unused WE Tokens from the contract.
 
 
 **## Conversion Rate:** 1 ETH = 1000 WE Tokens
